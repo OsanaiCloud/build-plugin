@@ -1,0 +1,14 @@
+{
+  "name": "osanai",
+  "owner": {
+    "name": "Osanai"
+  },
+  "description": "Plugin de Osanai Build para Claude Code.",
+  "plugins": [
+    {
+      "name": "osanai",
+      "source": "./plugins/osanai",
+      "description": "Lleva a Osanai Build el contexto de tu producto desde tu Claude Code."
+    }
+  ]
+}

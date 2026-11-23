@@ -1,0 +1,8 @@
+{
+  "name": "osanai",
+  "description": "Lleva a Osanai Build el contexto de tu producto desde tu Claude Code.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Osanai"
+  }
+}
