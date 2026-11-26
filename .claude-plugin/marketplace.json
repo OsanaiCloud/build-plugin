@@ -8,7 +8,7 @@
     {
       "name": "osanai",
       "source": "./plugins/osanai",
-      "description": "Lleva a Osanai Build el contexto de tu producto desde tu Claude Code."
+      "description": "El Asistente de Osanai Build: trae tu producto a Build desde tu Claude Code."
     }
   ]
 }

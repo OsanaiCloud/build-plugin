@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "osanai": {
+      "type": "http",
+      "url": "${OSANAI_BUILD_URL:-https://build.osanai.cloud}/api/mcp"
+    }
+  }
+}
